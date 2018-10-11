@@ -51,7 +51,7 @@
 * We used sentiment, topic, proportioned feature extractions, derived in EDA, and TF-IDF features and found out the TF-IDF variables to be the most relevant when it came to age prediction of the blogger.
 
 ## Statistical Methods Tested:
-* The following three parametric regression approaches were tested through cross-validation to determine which had the lowest test error. We ultimately selected OLS.
+* The following three parametric regression approaches were tested through cross-validation to determine which had the lowest test error. We ultimately selected OLS. Ideal lambda tuning parameters for L1 and L2 regularization were also optimized via cross validation.
 * OLS (Final method)
 * Lasso
 * Ridge
