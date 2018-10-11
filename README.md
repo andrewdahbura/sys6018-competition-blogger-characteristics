@@ -45,7 +45,8 @@
 * We tested for a wide range of values (10, 5000) and found 2000 to be the converging point.
 
 ## Sentiment Analysis:
-* We attempted to use sentiment analysis using Textblob but it was not considered as a variable in our best score.
+* We attempted to sentiment analysis using Textblob and calculated a sentiment score per post.
+* It was not considered as a variable in our best score.
 
 ## Feature Selection:
 * We used sentiment, topic, proportioned variables derived in EDA, and TF-IDF variables.
