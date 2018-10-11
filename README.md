@@ -7,7 +7,7 @@
 ## Team Roles
 
 * Will Gleave: Data exploration, TFIDF, LDA
-* Andrew Dahbura: Model selection, data cleaning, report writing
+* Andrew Dahbura: Model selection, data cleaning, report writing (Git Hub coordinator)
 * Kanika Dawar: Feature engineering, report writing
 
 ## train.csv
