@@ -18,7 +18,7 @@
 
 * This is the given test file in the Kaggle competition
 
-## Basic feature extraction/Data Analysis:
+## Data Exploration, Feature Extraction:
 * Number of words in the text
 * Average length of words
 * Proportion of stopwords
