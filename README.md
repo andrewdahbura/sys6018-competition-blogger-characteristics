@@ -9,6 +9,13 @@ SYS 6018 Kaggle 3
 * Andrew Dahbura: Model selection, data cleaning, report writing
 * Kanika Dawar: Feature engineering, report writing
 
+## train.csv
+
+* This is the given training file in the Kaggle competition
+
+## test.csv
+
+* This is the given test file in the Kaggle competition
 
 ## Basic feature extraction/Data Analysis:
 * Number of words in the text
