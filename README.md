@@ -49,10 +49,10 @@ SYS 6018 Kaggle 3
 
 ## Resources:
 * Text eda, data cleaning and n-gram analysis
-* http://rstudio-pubs-static.s3.amazonaws.com/206183_aa3b2e5280ab4cde910612ae44a3a78a.html
+  http://rstudio-pubs-static.s3.amazonaws.com/206183_aa3b2e5280ab4cde910612ae44a3a78a.html
 
 * Description of N-gram text classification algorithm
-* http://odur.let.rug.nl/vannoord/TextCat/textcat.pdf
+  http://odur.let.rug.nl/vannoord/TextCat/textcat.pdf
 
 * How to deal with Text Data?
-* https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/
+  https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/
